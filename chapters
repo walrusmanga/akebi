@@ -1,0 +1,17 @@
+{
+  "title": "Akebi's Sailor Uniform",
+  "description": "Akebi Komichi vit à la campagne avec sa famille. Elle a gagné l'entrée au prestigieux collège pour filles de l'Académie Roubai et ne veut plus que deux choses: porter l'uniforme de marin de l'école et se faire une centaine d'amis!",
+  "artist": "Hiro",
+  "author": "Hiro",
+  "cover": "https://cdn.myanimelist.net/images/manga/3/194425.jpg",
+  "chapters": {
+    "12": {
+      "title": "Trop belle, Kizaki",
+      "volume": "2",
+      "groups": {
+        "TEAM minuscules": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1620848420"
+    },
+  }
+}
